@@ -7,7 +7,7 @@ package engine;
 public enum ScreenType {
     EndGame,
     GameScreen,
-    HighScroreScreen,
+    HighScoreScreen,
     ScoreScreen,
     TitleScreen,
 }

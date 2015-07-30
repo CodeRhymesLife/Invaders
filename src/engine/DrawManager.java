@@ -323,7 +323,7 @@ public final class DrawManager {
 			backBufferGraphics.setColor(Color.WHITE);
 		drawCenteredRegularString(screen, playString,
 				screen.getHeight() / 3 * 2);
-		if (screenOption == ScreenType.HighScroreScreen)
+		if (screenOption == ScreenType.HighScoreScreen)
 			backBufferGraphics.setColor(Color.GREEN);
 		else
 			backBufferGraphics.setColor(Color.WHITE);
