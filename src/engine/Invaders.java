@@ -19,5 +19,7 @@ public class Invaders {
 
         // Hold on to all of the game's information
         GameState gameState = new GameState(1, 0, Constants.MAX_LIVES, 0, 0);
+        
+        // Show Title Screen below this line
     }
 }
