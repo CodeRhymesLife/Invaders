@@ -50,11 +50,11 @@ public class Ship extends Entity {
 	 * and the player is not against the left or right wall.
 	 */
 	public void checkMovement(Screen screen) {
-		// Detects whether the ship is touching the right border
-		boolean isShipTouchingRightBorder = this.getPositionX() + this.getWidth() + this.getSpeed() > screen.getWidth() - 1;
+		// Detects whether the ship is not touching the right border
+		boolean isShipNotTouchingRightBorder = !(this.getPositionX() + this.getWidth() + this.getSpeed() > screen.getWidth() - 1);
 
-		// Detects whether the ship is touching the left border
-		boolean isShipTouchingLeftBorder = this.getPositionX() - this.getSpeed() < 1;
+		// Detects whether the ship is not touching the left border
+		boolean isShipNotTouchingLeftBorder = !(this.getPositionX() - this.getSpeed() < 1);
 	}
 
 	/**
