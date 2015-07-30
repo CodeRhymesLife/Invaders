@@ -43,7 +43,8 @@ This repo will ask students to apply the concepts above to create a working vers
 1. [Install JDK 7 or greater](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 2. Install Git (I like this package -> [GitHub for Windows](https://windows.github.com/))
 3. [Install IntelliJ IDEA](https://www.jetbrains.com/idea/) - we use IntelliJ IDEA in my class. Feel free to use the environment that works best for you.
-4. [Fork this repo](https://help.github.com/articles/fork-a-repo/)
+4. [Create GitHub accoutns](https://github.com/) - each student should have their own GitHub account
+5. [Fork this repo](https://help.github.com/articles/fork-a-repo/)
   - If students are in groups only one student from each group should create a fork
   - After forking the repo [add other members of your group as collaborators](https://help.github.com/articles/adding-collaborators-to-a-personal-repository/)
 6. Clone THE FORKED repo (not the original repo) - [Instructions for cloning in IntelliJ IDEA](https://www.jetbrains.com/idea/help/cloning-a-repository-from-github.html)
