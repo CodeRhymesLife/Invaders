@@ -81,6 +81,7 @@ public class TitleScreen extends Screen {
 	 */
 	private ScreenType getNextMenuItem(ScreenType selectedMenuItem) {
 		return ScreenType.GameScreen;
+		
 	}
 
 	/**
@@ -91,6 +92,7 @@ public class TitleScreen extends Screen {
 	 */
 	private ScreenType getPreviousMenuItem(ScreenType selectedMenuItem) {
 		return ScreenType.GameScreen;
+		
 	}
 
 	/**
