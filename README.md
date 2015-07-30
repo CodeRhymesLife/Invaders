@@ -47,9 +47,9 @@ This repo will ask students to apply the concepts above to create a working vers
 5. [Fork this repo](https://help.github.com/articles/fork-a-repo/)
   - If students are in groups only one student from each group should create a fork
   - After forking the repo [add other members of your group as collaborators](https://help.github.com/articles/adding-collaborators-to-a-personal-repository/)
-6. Clone THE FORKED repo (not the original repo) - [Instructions for cloning in IntelliJ IDEA](https://www.jetbrains.com/idea/help/cloning-a-repository-from-github.html)
+6. Clone THE FORKED repo (not the original repo) on your computer - [Instructions for cloning in IntelliJ IDEA](https://www.jetbrains.com/idea/help/cloning-a-repository-from-github.html)
 
-### Working on [issues](https://github.com/rcjames1004/Invaders/issues)
+### Work on [issues](https://github.com/rcjames1004/Invaders/issues)
 [Issues can be found here](https://github.com/rcjames1004/Invaders/issues). They should be worked on in order starting at #1. Each issue states the problem, and describes detailed instructions for how to fix it. When code that fixes an issue is pushed to the forked repo students should move on to the next issue.
 
 ###### Labels
